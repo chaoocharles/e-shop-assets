@@ -50,8 +50,8 @@ export const products = [
         createdDate: "2023-07-06T06:08:33.067Z",
         user: {
           id: "6475af156bad4917456e6e1e",
-          name: "Charles Kairu",
-          email: "charleykairu@gmail.com",
+          name: "Charles",
+          email: "example@gmail.com",
           emailVerified: null,
           image:
             "https://lh3.googleusercontent.com/a/AAcHTteOiCtILLBWiAoolIW9PJH-r5825pBDl824_8LD=s96-c",
@@ -103,8 +103,8 @@ export const products = [
         createdDate: "2023-06-26T15:53:44.483Z",
         user: {
           id: "6499b184b0e9a8c8709821d3",
-          name: "Chaoo Charles",
-          email: "chaoocharles@gmail.com",
+          name: "Chaoo",
+          email: "example1@gmail.com",
           emailVerified: null,
           image:
             "https://lh3.googleusercontent.com/a/AAcHTtcuRLwWi1vPKaQOcJlUurlhRAIIq2LgYccE8p32=s96-c",
@@ -123,8 +123,8 @@ export const products = [
         createdDate: "2023-06-26T14:30:40.998Z",
         user: {
           id: "6475af156bad4917456e6e1e",
-          name: "Charles Kairu",
-          email: "charleykairu@gmail.com",
+          name: "Charles",
+          email: "example@gmail.com",
           emailVerified: null,
           image:
             "https://lh3.googleusercontent.com/a/AAcHTteOiCtILLBWiAoolIW9PJH-r5825pBDl824_8LD=s96-c",
